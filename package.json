@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SlavaFors/ajs-modules.git"
+    "url": "git+https://github.com/SlavaFors/ajs-modules1.git"
   },
   "author": "SlavaFors",
   "license": "ISC",
@@ -31,8 +31,8 @@
     "core-js": "^3.30.1"
   },
   "bugs": {
-    "url": "https://github.com/SlavaFors/ajs-modules/issues"
+    "url": "https://github.com/SlavaFors/ajs-modules1/issues"
   },
-  "homepage": "https://github.com/SlavaFors/ajs-modules#readme",
+  "homepage": "https://github.com/SlavaFors/ajs-modules1#readme",
   "description": ""
 }
