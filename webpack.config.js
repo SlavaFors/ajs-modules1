@@ -44,4 +44,8 @@ module.exports = {
       chunkFilename: '[id].css',
     }),
   ],
+  devServer: {
+  watchFiles: path.join(__dirname, 'src'),
+  port: 8000,
+  },
 };
