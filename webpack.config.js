@@ -45,7 +45,7 @@ module.exports = {
     }),
   ],
   devServer: {
-  watchFiles: path.join(__dirname, 'src'),
+  watchFiles: path.join(__dirname, 'dist'),
   port: 8000,
   },
 };
